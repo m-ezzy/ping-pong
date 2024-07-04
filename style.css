@@ -1,0 +1,52 @@
+#masterid{
+	background-color:lightgray;
+	border-top-style:solid;
+	border-top-width:1px;
+	border-top-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-bottom-color:#000000;
+	position:relative;
+	z-index:0;
+}
+
+#bar1back{
+	background-color:#000000;
+	position:absolute;
+	z-index:5;
+}
+
+#bar2back{
+	background-color:#000000;
+	position:absolute;
+	z-index:5;
+}
+
+#bar1id{
+	background-color:#ffff00;
+	position:absolute;
+	z-index:10;
+}
+
+#bar2id{
+	background-color:#00ffff;
+	position:absolute;
+	z-index:10;
+}
+
+#ballid{
+	background-color:hotpink;
+	position:absolute;
+	z-index:20;
+}
+
+#message{
+	background-color:gray;
+	opacity:0.0;
+	position:absolute;
+	left:0px;
+	top:0px;
+	z-index:30;
+	text-align:center;
+	font-size:xx-large;
+}
